@@ -31,9 +31,6 @@ function calculateResult(){
     
     result = (average>=40) ? "Pass" : "Fail";
     document.getElementById("result").innerHTML = "Average: " + average.toFixed(2) + "<br>Grade: " + grade + "<br>Result: " + result;
-
-
-
     }  
     
     
