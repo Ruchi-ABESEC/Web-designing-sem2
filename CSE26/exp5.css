@@ -8,7 +8,7 @@ body{
 }
 
 .container{
-    background: #a9c6df;
+    background: rgb(53, 53, 221);
     padding: 40px;
     border-radius: 10px;
     width: 500px;
@@ -24,7 +24,7 @@ input{
     padding: 8px;
     margin: 8px;
     border-radius: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid #e2d2d2;
 }
 
 button{
