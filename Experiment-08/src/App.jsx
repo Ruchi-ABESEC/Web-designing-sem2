@@ -32,6 +32,13 @@ function App() {
           Reset
         </button>
 
+        {/* Name Details */}
+        <div className="details">
+          <p>Ruchi kumari</p>
+          <p>CSE 26</p>
+          <p>2503201000950</p>
+        </div>
+
       </div>
 
     </div>
